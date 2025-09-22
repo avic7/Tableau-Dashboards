@@ -31,7 +31,7 @@ Across the 2020-2023 period, total sales grew substantially from $484K in 2020 t
 
 ## Recommendations
 
-- Scale investments in high-performing Western region to maintain market leadership.
+- Scale investments in high performing Western region to maintain market leadership.
 - Accelerate sales and marketing initiatives in Southern region to close performance gaps.
 - Deepen product innovation and portfolio expansion in Furnishings and Office Supplies.
 - Continue optimizing promotional strategies to sustain profit margin improvements.
@@ -48,3 +48,7 @@ Across the 2020-2023 period, total sales grew substantially from $484K in 2020 t
 - External market dynamics such as supply chain disruptions have not been explicitly modeled.
 - Analysis based on transactional sales and profit margins without including overhead or indirect costs.
 - Regional sales figures rely on postal code mappings that assume consistent geographic classification.
+
+
+
+## Official Dashboard link : https://public.tableau.com/app/profile/atharva.vichare/viz/SalesDashboard_17585765729280/SalesDashboard
