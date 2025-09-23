@@ -9,7 +9,7 @@ This repository showcases two executive dashboards built to deliver clear, decis
 - Key features: Overview KPI tiles, monthly rating trends, country‑level map, aircraft level bars, and interactive filters for metric, month, traveler type, seat class, aircraft group, and continent.  
 - Outcome: Enables data‑driven actions on service quality, fleet experience, and regional satisfaction patterns to improve loyalty and value for money perceptions.
 
-- Dashboard repo: [https://github.com/avic7/Tableau-Dashboards/tree/main/Airline%20Reviews%20Dashboard] 
+- Dashboard repo: [British Airways — Customer Reviews Dashboard](https://github.com/avic7/Tableau-Dashboards/tree/main/Airline%20Reviews%20Dashboard)
 ---
 
 ## 2) Apex Retail Corporation — Sales Performance and Growth Analytics Dashboard
@@ -18,7 +18,7 @@ This repository showcases two executive dashboards built to deliver clear, decis
 - Value: Executive view of growth, mix, and margin levers with region and category focus for commercial decision‑making. [file:68][file:69]
 
 
-- Dashboard repo: [https://github.com/avic7/Tableau-Dashboards/tree/main/Apex%20Retail%20Corporation%20Sales%20Performance%20and%20Growth%20Analytics%20Dashboard] 
+- Dashboard repo: [Apex Retail Corporation — Sales Performance and Growth Analytics Dashboard](https://github.com/avic7/Tableau-Dashboards/tree/main/Apex%20Retail%20Corporation%20Sales%20Performance%20and%20Growth%20Analytics%20Dashboard)
 ---
 
 ## 3) King County Executive’s Office — Housing Market Performance Dashboard (Evidence Brief, 2014–2015)
@@ -27,7 +27,7 @@ This repository showcases two executive dashboards built to deliver clear, decis
 - Value: Evidence‑driven brief for County leadership with transparent KPIs, spatial insights, and public dashboard guidance. 
 
 
-- Dashboard repo: https://github.com/avic7/Tableau-Dashboards/tree/main/King%20County%20Executive’s%20Office%20—%20Housing%20Market%20Performance%20Dashboard%20(Evidence%20Brief%2C%202014–2015)
+- Dashboard repo: [King County Executive’s Office — Housing Market Performance Dashboard](https://github.com/avic7/Tableau-Dashboards/tree/main/King%20County%20Executive’s%20Office%20—%20Housing%20Market%20Performance%20Dashboard%20(Evidence%20Brief%2C%202014–2015) 
 ---
 
 
